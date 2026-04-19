@@ -21,8 +21,8 @@ Este projeto consiste na análise de faturamento de uma rede de supermercados co
 
 ## 📂 Como visualizar o projeto
 1. Faça o download do arquivo `Dashboard_Vendas_Supermarket_Sales.xlsx`.
-2. Abra o arquivo no Excel.
-3. Utilize os botões de segmentação (se configurados) para filtrar as análises por cidade ou tipo de cliente.
+2. Abra o arquivo no Microsoft Excel.
+3. Navegue até a aba **Dashboard** para visualizar as análises consolidadas.
 
 ---
 💡 *Projeto desenvolvido como parte do meu portfólio de Análise de Dados / Engenharia de Software.*
