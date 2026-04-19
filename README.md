@@ -2,7 +2,7 @@
 Projeto de análise de dados com Excel: limpeza (ETL), Tabelas Dinâmicas e Dashboard executivo para tomada de decisão.
 # 🛒 Análise de Performance de Vendas - Supermarket Sales
 
-![Capa do Projeto](./assets/Capa de Projeto.png)
+![Capa do Projeto](./assets/capa_de_projeto.png)
 
 ## 📌 Visão Geral
 Este projeto consiste na análise de faturamento de uma rede de supermercados com filiais em três cidades diferentes (Mandalay, Naypyitaw e Yangon). O objetivo foi transformar dados brutos em um dashboard executivo para facilitar a tomada de decisão da gerência.
